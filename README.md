@@ -1,2 +1,4 @@
 # Introduction-to-Data-Science-in-Python
-Data Science Basics
+Applied Data Science with Python 5 Course Specialization
+
+Course-1
